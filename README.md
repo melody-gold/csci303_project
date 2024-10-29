@@ -1,5 +1,5 @@
 # Predicting Student Outcomes From Education Data
-### CSCI: 303 
+### CSCI303 
 *Melody Goldanloo, Jenna Ramsey-Rutledge, Byron Selvage*
 
 ## Project Proposal
