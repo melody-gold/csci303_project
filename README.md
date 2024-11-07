@@ -26,13 +26,3 @@ The goal of this project is to develop a model that can predict student outcomes
 Our primary data source will be the U.S. Education Datasets: Unification Project dataset on Kaggle, which combines multiple U.S. education datasets into one combined dataset. Additional data will come from the Colorado Education Statistics, published by the Colorado Department of Education. 
 ### Project Outcomes:
 We expect to develop a model that accurately predicts dropout rate and academic achievement, providing insight into the impact of factors like teacher salary and school expenditure. We will also identify which variables have the strongest influence on student outcomes.
-
-
-#### Git stuff:
-
-This sample project shows how a project in GitLab looks for demonstration purposes. It contains issues, merge requests and Markdown files in many branches,
-named and filled with lorem ipsum.
-
-You can look around to get an idea how to structure your project and, when done, you can safely delete this project.
-
-[Learn more about creating GitLab projects.](https://docs.gitlab.com/ee/gitlab-basics/create-project.html)
