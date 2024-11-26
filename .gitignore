@@ -1,0 +1,14 @@
+        myenv/lib/python3.8/site-packages/tensorflow/
+        myenv/lib/python3.8/site-packages/tensorflow_estimator-2.13.0.dist-info/
+        myenv/lib/python3.8/site-packages/tensorflow_estimator/
+        myenv/lib/python3.8/site-packages/tensorflow_io_gcs_filesystem-0.34.0.dist-info/
+        myenv/lib/python3.8/site-packages/tensorflow_io_gcs_filesystem/
+        myenv/lib/python3.8/site-packages/termcolor-2.4.0.dist-info/
+        myenv/lib/python3.8/site-packages/termcolor/
+        myenv/lib/python3.8/site-packages/typing_extensions-4.5.0.dist-info/
+        myenv/lib/python3.8/site-packages/werkzeug-3.0.6.dist-info/
+        myenv/lib/python3.8/site-packages/werkzeug/
+        myenv/lib/python3.8/site-packages/wheel-0.45.1.dist-info/
+        myenv/lib/python3.8/site-packages/wheel/
+        myenv/lib/python3.8/site-packages/wrapt-1.17.0.dist-info/
+        myenv/lib/python3.8/site-packages/wrapt/
